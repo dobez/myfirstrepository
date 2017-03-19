@@ -1,2 +1,2 @@
 # myfirstrepository
-this is a repository for study
+勉強用のリポジトリです
